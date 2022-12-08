@@ -118,6 +118,7 @@ const DataConverter = {
   },
 };
 
+//@ts-ignore
 export const context = createContext<Search>();
 
 let db = getFirestore(app);
