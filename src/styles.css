@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+.searchInput {
+  font-size: 28px;
+  border-radius: 100px;
+  width: 8em;
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+}
+.usBox {
+  height: 5em;
+  width: 5em;
+  border: 2px solid;
+}
+.usRow {
+  display: flex;
+}
+.usCen {
+}
+.space {
+  width: 3em;
+}
+.midUnderstock {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 2em;
+}
+.ADDABLE {
+  color: gray;
+  font-size: 3em;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
